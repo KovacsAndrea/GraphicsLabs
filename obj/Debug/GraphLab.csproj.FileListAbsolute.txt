@@ -1,0 +1,11 @@
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\bin\Debug\GraphLab.exe.config
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\bin\Debug\GraphLab.exe
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\bin\Debug\GraphLab.pdb
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.csproj.AssemblyReference.cache
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.Properties.Resources.resources
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.csproj.GenerateResource.cache
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.csproj.CoreCompileInputs.cache
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.exe
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.pdb
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.exe.config
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.Lab1.resources
