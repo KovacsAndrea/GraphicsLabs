@@ -9,3 +9,5 @@ D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.exe
 D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.pdb
 D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.exe.config
 D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.Lab1.resources
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.Lab2.PoligonInscris.resources
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.Lab2.Semafor.resources

@@ -52,10 +52,28 @@
     <Compile Include="Lab1.Designer.cs">
       <DependentUpon>Lab1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lab2\PoligonInscris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab2\PoligonInscris.Designer.cs">
+      <DependentUpon>PoligonInscris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab2\Semafor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab2\Semafor.Designer.cs">
+      <DependentUpon>Semafor.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Lab1.resx">
       <DependentUpon>Lab1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab2\PoligonInscris.resx">
+      <DependentUpon>PoligonInscris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab2\Semafor.resx">
+      <DependentUpon>Semafor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GraphLab.Lab2;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace GraphLab
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Lab1());
+            Application.Run(new PoligonInscris());
         }
     }
 }
