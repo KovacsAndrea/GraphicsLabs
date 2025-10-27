@@ -17,7 +17,7 @@ namespace GraphLab
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PoligonInscris());
+            Application.Run(new Lab4.Lab4());
         }
     }
 }

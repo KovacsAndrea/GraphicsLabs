@@ -64,6 +64,19 @@
     <Compile Include="Lab2\Semafor.Designer.cs">
       <DependentUpon>Semafor.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lab3\Lab3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab3\Lab3.Designer.cs">
+      <DependentUpon>Lab3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab4\Lab4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab4\Lab4.Designer.cs">
+      <DependentUpon>Lab4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PoligonUtils.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Lab1.resx">
@@ -74,6 +87,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Lab2\Semafor.resx">
       <DependentUpon>Semafor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab3\Lab3.resx">
+      <DependentUpon>Lab3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab4\Lab4.resx">
+      <DependentUpon>Lab4.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
