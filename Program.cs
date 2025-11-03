@@ -9,15 +9,13 @@ namespace GraphLab
 {
     internal static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Lab4.Lab4());
+            Application.Run(new Lab5.Lab5());
         }
     }
 }

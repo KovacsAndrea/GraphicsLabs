@@ -13,3 +13,4 @@ D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.Lab2.PoligonInscris.
 D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.Lab2.Semafor.resources
 D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.Lab3.Lab3.resources
 D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.Lab4.Lab4.resources
+D:\ORADEA\SEM1\Grafica\GraphLab\GraphLab\obj\Debug\GraphLab.Lab5.Lab5.resources
