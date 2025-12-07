@@ -94,6 +94,18 @@
     <Compile Include="Lab7\Lab7.Designer.cs">
       <DependentUpon>Lab7.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lab8\Lab8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab8\Lab8.Designer.cs">
+      <DependentUpon>Lab8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab9\Lab9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab9\Lab9.Designer.cs">
+      <DependentUpon>Lab9.cs</DependentUpon>
+    </Compile>
     <Compile Include="PoligonUtils.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -121,6 +133,12 @@
     <EmbeddedResource Include="Lab7\Lab7.resx">
       <DependentUpon>Lab7.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Lab8\Lab8.resx">
+      <DependentUpon>Lab8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab9\Lab9.resx">
+      <DependentUpon>Lab9.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -143,7 +161,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Lab10\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="assets\onePiece.png" />
   </ItemGroup>

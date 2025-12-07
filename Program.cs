@@ -15,7 +15,7 @@ namespace GraphLab
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Lab7.Lab7());
+            Application.Run(new Lab9.Lab9());
         }
     }
 }
